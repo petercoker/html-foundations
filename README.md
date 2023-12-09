@@ -7,4 +7,4 @@ This project is an exercise in the application of HTML5 to develop a comprehensi
 ![1702123949019](image/README/1702123949019.png)
 ![1702123986788](image/README/1702123986788.png)
 ![1702124014096](image/README/1702124014096.png)
-![1702124038969](image/README/1702124038969.png)
+![1702126002992](image/README/1702126002992.png)
